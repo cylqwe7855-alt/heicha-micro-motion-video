@@ -1,0 +1,4 @@
+interface:
+  display_name: "喜茶式微动态视频提示词"
+  short_description: "把海报图或文字内容变成可直接使用的微动态视频提示词"
+  default_prompt: "使用 $heicha-micro-motion-video，把我上传的海报图或文字内容整理成可直接用于 Seedance 2.5 的微动态视频提示词。"
